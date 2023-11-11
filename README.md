@@ -1,7 +1,7 @@
 # Wii-USB-C-Plug
 Made a plug for the Wii USB C power mod so that theres no cutting what so ever in the shell
 
-interested in buying a kit already assembled? hit me up on twitter @smiggycc or discord, same as my twitter handle
+interested in buying a kit already assembled or want to send your wii in? hit me up on twitter @smiggycc or discord, same as my twitter handle
 
 Here is the USB C board, Cord, & Box that I used
 
