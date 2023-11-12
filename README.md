@@ -7,9 +7,7 @@ Here is the USB C board, Cord, & Box that I used
 
 https://www.amazon.com/dp/B0953G14Q2?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
-https://www.amazon.com/dp/B07DQM7WH5?psc=1&ref=ppx_yo2ov_dt_b_product_details
-
-https://www.amazon.com/dp/B0B7KVNJ4S?psc=1&ref=ppx_yo2ov_dt_b_product_details
+https://www.amazon.com/dp/B09PG519NS?ref_=cm_sw_r_cp_ud_dp_JDM7803B8CQ6PRB7YF8F
 
 I printed this with a 0.4mm nozzle
 
