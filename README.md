@@ -11,7 +11,7 @@ Charger Brick: https://www.amazon.com/iPhone-Charger-Charging-6-6FT-Block/dp/B0D
 
 Wires: https://www.amazon.com/dp/B0746HG158?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
-The Wii is officially stated to run at 12 volts & 3.75 amps but there's some wiggle room
+The Wii is officially stated to run at 12 volts & 3.75 amps but there's some wiggle room since it doesn't seem to mind running at 12 volts & 2.5 amps
 
 I made this bezel so that its held in by itself but the I reccomend hot gluing the board into the bezel
 
