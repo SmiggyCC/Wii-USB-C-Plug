@@ -13,6 +13,8 @@ Wires: https://www.amazon.com/dp/B0746HG158?psc=1&ref=ppx_yo2ov_dt_b_product_det
 
 The Wii is officially stated to run at 12 volts & 3.75 amps but there's some wiggle room
 
+I made this bezel so that its held in by itself but the I reccomend hot gluing the board into the bezel
+
 I printed this with a 0.4mm nozzle
 
 Discord & Bsky: SmiggyCC
