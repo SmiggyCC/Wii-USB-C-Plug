@@ -1,10 +1,6 @@
 # Wii-USB-C-Plug
 Made a plug for the Wii USB C power mod so that theres no cutting what so ever in the shell
 
-interested in buying a kit already assembled or want to send your wii in? hit me up on twitter @smiggycc or discord, same as my twitter handle
-
-Here is the USB C board, Cord, & Box that I used
-
 USB-C Boards: https://www.amazon.com/dp/B0953G14Q2?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
 Charger Brick: https://www.amazon.com/iPhone-Charger-Charging-6-6FT-Block/dp/B0DCZ7SWQM?ref_=ast_sto_dp&th=1&psc=1
@@ -16,6 +12,8 @@ The Wii is officially stated to run at 12 volts & 3.75 amps but there's some wig
 I made this bezel so that its held in by itself but the I reccomend hot gluing the board into the bezel
 
 I printed this with a 0.4mm nozzle
+
+How to do the mod: TakDesolder the AC port and solder in the USB C board
 
 Discord & Bsky: SmiggyCC
 ![228700530-cfde5d7b-656c-4a45-8b1c-0d5c216178d1](https://github.com/user-attachments/assets/8123aca0-6b9b-44fe-83b0-382934e1b86f)
