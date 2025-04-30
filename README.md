@@ -13,7 +13,7 @@ I made this bezel so that its held in by itself but the I reccomend hot gluing t
 
 I printed this with a 0.4mm nozzle
 
-How to do the mod: TakDesolder the AC port and solder in the USB C board
+How to do the mod: Desolder the AC port and solder in the USB C board
 
 Discord & Bsky: SmiggyCC
 ![228700530-cfde5d7b-656c-4a45-8b1c-0d5c216178d1](https://github.com/user-attachments/assets/8123aca0-6b9b-44fe-83b0-382934e1b86f)
